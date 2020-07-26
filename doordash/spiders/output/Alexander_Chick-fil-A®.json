@@ -1,0 +1,550 @@
+{
+  "RESTNAME": "Chick-fil-A\u00ae",
+  "TIME": "All Day Hours: 10:00 AM - 9:30 PM",
+  "RATINGS": {
+    "AVERAGE": "4.8",
+    "VOLUME": "398",
+    "POPULAR_ITEMS": [
+      {
+        "POP_NAME": "Chick-fil-A\u00ae Chicken Sandwich",
+        "POP_DESCRIPTION": "A boneless breast of chicken seasoned to perfection, hand-breaded, pressure cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips. Gluten-free bun or multigrain bun also available at an additional cost.",
+        "POP_PRICE": "$5.05"
+      },
+      {
+        "POP_NAME": "Spicy Chicken Sandwich",
+        "POP_DESCRIPTION": "A boneless breast of chicken seasoned with a spicy blend of peppers, hand-breaded, pressure cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips. Gluten-free bun or multigrain bun also available at an additional cost.",
+        "POP_PRICE": "$5.45"
+      },
+      {
+        "POP_NAME": "Spicy Deluxe Sandwich",
+        "POP_DESCRIPTION": "A boneless breast of chicken seasoned with a spicy blend of peppers, hand-breaded, pressure cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips, Green Leaf lettuce, tomato and Pepper Jack Cheese. Gluten-free bun or multigrain bun also available at an additional cost.",
+        "POP_PRICE": "$5.95"
+      },
+      {
+        "POP_NAME": "Mac & Cheese",
+        "POP_DESCRIPTION": "A classic macaroni and cheese recipe featuring a special blend of cheeses including Parmesan, Cheddar, and Romano. Baked in-restaurant to form a crispy top layer of baked cheese.",
+        "POP_PRICE": "$3.30"
+      },
+      {
+        "POP_NAME": "Chick-fil-A\u00ae Deluxe Sandwich",
+        "POP_DESCRIPTION": "A boneless breast of chicken seasoned to perfection, hand-breaded, pressure cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips, Green Leaf lettuce, tomato and American cheese. Gluten-free bun or multigrain bun also available at an additional cost.",
+        "POP_PRICE": "$5.55"
+      },
+      {
+        "POP_NAME": "Cookies & Cream Milkshake",
+        "POP_DESCRIPTION": "Our creamy Milkshakes are hand-spun the old-fashioned way each time and feature delicious Chick-fil-A Icedream\u00c2\u00ae",
+        "POP_PRICE": "$4.60"
+      },
+      {
+        "POP_NAME": "Cobb Salad",
+        "POP_DESCRIPTION": "Chick-fil-A\u00ae Nuggets, freshly breaded and pressure-cooked, sliced and served on a fresh bed of mixed greens, topped with roasted corn kernels, a blend of shredded Monterey Jack and Cheddar cheeses, crumbled bacon, sliced hard-boiled egg and grape tomatoes. Made fresh daily. Served with Charred Tomato and Crispy Red Bell Peppers. Pairs well with Avocado Lime Ranch dressing.",
+        "POP_PRICE": "$8.05"
+      },
+      {
+        "POP_NAME": "Fruit Cup",
+        "POP_DESCRIPTION": "A nutritious fruit mix made with chopped pieces of red and green apples, mandarin orange segments, fresh strawberry slices, and blueberries, served chilled. Prepared fresh daily.",
+        "POP_PRICE": "$3.30"
+      }
+    ]
+  },
+  "ADDRESS": "Chickendelivered fromChick-fil-A\u00aeatChick-fil-A Otter Creek, 2 Bass Pro Dr, Little Rock, AR 72210, USA",
+  "MENU": [
+    {
+      "NAME": "Chick-fil-A\u00ae Chicken Sandwich",
+      "DESCRIPTION": "A boneless breast of chicken seasoned to perfection, hand-breaded, pressure cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips. Gluten-free bun or multigrain bun also available at an additional cost.",
+      "PRICE": "$5.05",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/a96c1601-4709-40f7-89dd-1b1fd75bd2ac-retina-large.jpg"
+    },
+    {
+      "NAME": "Spicy Chicken Sandwich",
+      "DESCRIPTION": "A boneless breast of chicken seasoned with a spicy blend of peppers, hand-breaded, pressure cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips. Gluten-free bun or multigrain bun also available at an additional cost.",
+      "PRICE": "$5.45",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/19ccd1f1-5b6b-496a-96d7-4288448ea609-retina-large.jpg"
+    },
+    {
+      "NAME": "Spicy Deluxe Sandwich",
+      "DESCRIPTION": "A boneless breast of chicken seasoned with a spicy blend of peppers, hand-breaded, pressure cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips, Green Leaf lettuce, tomato and Pepper Jack Cheese. Gluten-free bun or multigrain bun also available at an additional cost.",
+      "PRICE": "$5.95",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/b9bf33eb-5ada-41ae-a197-c777d5e4e088-retina-large.jpg"
+    },
+    {
+      "NAME": "Mac & Cheese",
+      "DESCRIPTION": "A classic macaroni and cheese recipe featuring a special blend of cheeses including Parmesan, Cheddar, and Romano. Baked in-restaurant to form a crispy top layer of baked cheese.",
+      "PRICE": "$3.30",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/3aa8743f-37cb-4239-b3d1-f52d1cb9d49e-retina-large.jpg"
+    },
+    {
+      "NAME": "Chick-fil-A\u00ae Deluxe Sandwich",
+      "DESCRIPTION": "A boneless breast of chicken seasoned to perfection, hand-breaded, pressure cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips, Green Leaf lettuce, tomato and American cheese. Gluten-free bun or multigrain bun also available at an additional cost.",
+      "PRICE": "$5.55",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/0bc8c182-1bcd-47dc-9865-b4fa532b5abd-retina-large.jpg"
+    },
+    {
+      "NAME": "Cookies & Cream Milkshake",
+      "DESCRIPTION": "Our creamy Milkshakes are hand-spun the old-fashioned way each time and feature delicious Chick-fil-A Icedream\u00c2\u00ae",
+      "PRICE": "$4.60",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/04ea0e7e-f39b-4727-a524-97d535a2a29f-retina-large.jpg"
+    },
+    {
+      "NAME": "Cobb Salad",
+      "DESCRIPTION": "Chick-fil-A\u00ae Nuggets, freshly breaded and pressure-cooked, sliced and served on a fresh bed of mixed greens, topped with roasted corn kernels, a blend of shredded Monterey Jack and Cheddar cheeses, crumbled bacon, sliced hard-boiled egg and grape tomatoes. Made fresh daily. Served with Charred Tomato and Crispy Red Bell Peppers. Pairs well with Avocado Lime Ranch dressing.",
+      "PRICE": "$8.05",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/ec6f9b7e-75aa-4f42-9bc5-5f1c6a0b3cb9-retina-large.jpg"
+    },
+    {
+      "NAME": "Fruit Cup",
+      "DESCRIPTION": "A nutritious fruit mix made with chopped pieces of red and green apples, mandarin orange segments, fresh strawberry slices, and blueberries, served chilled. Prepared fresh daily.",
+      "PRICE": "$3.30",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/f46b8f12-eb05-42d2-8b46-b3b7e011884f-retina-large.jpg"
+    },
+    {
+      "NAME": "Chick-fil-A\u00ae Chicken Sandwich",
+      "DESCRIPTION": "A boneless breast of chicken seasoned to perfection, hand-breaded, pressure cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips. Gluten-free bun or multigrain bun also available at an additional cost.",
+      "PRICE": "$5.05",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/a96c1601-4709-40f7-89dd-1b1fd75bd2ac-retina-large.jpg"
+    },
+    {
+      "NAME": "Chick-fil-A\u00ae Deluxe Sandwich",
+      "DESCRIPTION": "A boneless breast of chicken seasoned to perfection, hand-breaded, pressure cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips, Green Leaf lettuce, tomato and American cheese. Gluten-free bun or multigrain bun also available at an additional cost.",
+      "PRICE": "$5.55",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/0bc8c182-1bcd-47dc-9865-b4fa532b5abd-retina-large.jpg"
+    },
+    {
+      "NAME": "Spicy Chicken Sandwich",
+      "DESCRIPTION": "A boneless breast of chicken seasoned with a spicy blend of peppers, hand-breaded, pressure cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips. Gluten-free bun or multigrain bun also available at an additional cost.",
+      "PRICE": "$5.45",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/19ccd1f1-5b6b-496a-96d7-4288448ea609-retina-large.jpg"
+    },
+    {
+      "NAME": "Spicy Deluxe Sandwich",
+      "DESCRIPTION": "A boneless breast of chicken seasoned with a spicy blend of peppers, hand-breaded, pressure cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips, Green Leaf lettuce, tomato and Pepper Jack Cheese. Gluten-free bun or multigrain bun also available at an additional cost.",
+      "PRICE": "$5.95",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/b9bf33eb-5ada-41ae-a197-c777d5e4e088-retina-large.jpg"
+    },
+    {
+      "NAME": "Grilled Chicken Sandwich",
+      "DESCRIPTION": "A lemon-herb marinated boneless breast of chicken, grilled for a tender and juicy backyard-smoky taste, served on a toasted Multigrain bun with Green Leaf letttuce and tomato. Pairs well with Honey Roasted BBQ sauce.",
+      "PRICE": "$6.95",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/d1e5ae03-e748-4fea-921d-755b3815925e-retina-large.jpg"
+    },
+    {
+      "NAME": "Grilled Chicken Club",
+      "DESCRIPTION": "A lemon-herb marinated boneless breast of chicken, grilled for a tender\nand juicy backyard-smokey taste, served on a toasted Multigrain Brioche bun with Colby-Jack cheese, applewood smoked bacon, Green Leaf lettuce and tomato. Served with Honey Roasted BBQ Sauce.  Available with Gluten-free bun for an additional cost.",
+      "PRICE": "$8.45",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/d1e5ae03-e748-4fea-921d-755b3815925e-retina-large.jpg"
+    },
+    {
+      "NAME": "Chick-fil-A\u00ae Nuggets",
+      "DESCRIPTION": "Bite-sized pieces of boneless chicken breast, seasoned to perfection, freshly-breaded and pressure cooked in 100% refined peanut oil. Available with choice of dipping sauce.",
+      "PRICE": "$2.60",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/d53dcd0b-8947-408d-8ad0-65941535c6b0-retina-large.jpg"
+    },
+    {
+      "NAME": "Grilled Nuggets",
+      "DESCRIPTION": "Bite-sized pieces of freshly marinated boneless breast of chicken, grilled for a tender and juicy backyard-smoky taste. Available with guest's choice of dipping sauce.",
+      "PRICE": "$3.10",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/d7d2d3fa-f924-44ff-8788-9f7816dcf84f-retina-large.jpg"
+    },
+    {
+      "NAME": "Chick-n-Strips\u2122",
+      "DESCRIPTION": "Boneless chicken tenders marinated in special seasonings, freshly-breaded and pressure cooked in 100% refined peanut oil. Available in 3-count or 4-count entr\u00e9es with choice of dipping sauce.",
+      "PRICE": "$2.00",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/c2437ade-3a09-42ef-8d8e-3bb0924e7b39-retina-large.jpg"
+    },
+    {
+      "NAME": "Grilled Cool Wrap\u00ae",
+      "DESCRIPTION": "Sliced grilled chicken breast nestled in a fresh mix of Green Leaf lettuce with a blend of shredded Monterey Jack and Cheddar cheeses, tightly rolled in a flaxseed flour flat bread. Made fresh daily. Pairs well with Avocado Lime Ranch dressing (or guest\u2019s choice of dressing).",
+      "PRICE": "$8.75",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/a2045d42-7b47-4a0d-b207-8c08d6f05baf-retina-large.jpg"
+    },
+    {
+      "NAME": "Gluten Free Bun",
+      "DESCRIPTION": "A certified gluten-free bun, individually packaged to be an alternative for our guests wishing to minimize gluten in their diets.\nOur recipe, enriched with vitamins and minerals, features a blend of amaranth and quinoa, all lightly sweetened with molasses and raisins.",
+      "PRICE": "$2.20"
+    },
+    {
+      "NAME": "Filets",
+      "PRICE": "$4.75",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/43d2d182-00d5-4f07-b960-483c2db08527-retina-large.jpg"
+    },
+    {
+      "NAME": "Chick-fil-A Waffle Potato Fries\u00ae",
+      "DESCRIPTION": "Waffle-shaped potatoes with the skin. Cooked in canola oil until crispy outside and tender inside.",
+      "PRICE": "$2.30",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/788efc8a-249d-47ba-84cd-fab4a0d85b96-retina-large.jpg"
+    },
+    {
+      "NAME": "Fruit Cup",
+      "DESCRIPTION": "A nutritious fruit mix made with chopped pieces of red and green apples, mandarin orange segments, fresh strawberry slices, and blueberries, served chilled. Prepared fresh daily.",
+      "PRICE": "$3.30",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/f46b8f12-eb05-42d2-8b46-b3b7e011884f-retina-large.jpg"
+    },
+    {
+      "NAME": "Side Salad",
+      "DESCRIPTION": "A fresh bed of mixed greens, topped with a blend of shredded Monterey Jack and Cheddar cheeses and grape tomatoes. Made fresh daily. Served with Charred Tomato, Crispy Red Bell Peppers and guest's choice of dressing.",
+      "PRICE": "$4.25",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/e154103d-08c5-4ead-addc-c74ab30eb918-retina-large.jpg"
+    },
+    {
+      "NAME": "Mac & Cheese",
+      "DESCRIPTION": "A classic macaroni and cheese recipe featuring a special blend of cheeses including Parmesan, Cheddar, and Romano. Baked in-restaurant to form a crispy top layer of baked cheese.",
+      "PRICE": "$3.30",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/3aa8743f-37cb-4239-b3d1-f52d1cb9d49e-retina-large.jpg"
+    },
+    {
+      "NAME": "Chicken Noodle Soup",
+      "DESCRIPTION": "Shredded Chick-fil-A\u00ae chicken breast, chopped carrots and celery with egg noodles in a hearty broth. Served with Saltine crackers.",
+      "PRICE": "$4.10",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/94fcbca6-09e4-4b91-a883-325f65685b49-retina-large.jpg"
+    },
+    {
+      "NAME": "Kale Crunch Side",
+      "DESCRIPTION": "A blend of Curly Kale and Green Cabbage tossed with an Apple Cider and Dijon Mustard vinaigrette, all topped off with salted, crunchy Roasted Almonds",
+      "PRICE": "$2.60",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/8dc5d84b-0007-4fb1-96b1-db65959c4246-retina-large.jpg"
+    },
+    {
+      "NAME": "Greek Yogurt Parfait",
+      "DESCRIPTION": "Creamy, organic vanilla bean Greek yogurt with fresh berries and your choice of toppings.",
+      "PRICE": "$5.05",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/44ff1637-cc82-49bb-a840-6932d842730e-retina-large.jpg"
+    },
+    {
+      "NAME": "Waffle Potato Chips",
+      "DESCRIPTION": "Kettle-cooked waffle cut potato chips lightly sprinkled with Sea Salt.",
+      "PRICE": "$2.45",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/df989ed4-6571-4405-8fcb-94d3a971ba26-retina-large.jpg"
+    },
+    {
+      "NAME": "Mango Passion Tea Lemonade",
+      "DESCRIPTION": "A tropical combination of our classic Chick-fil-A\u00ae Lemonade and freshly-brewed Unsweetened Iced Tea, blended with mango and passionfruit natural flavors. Also available with combinations of Chick-fil-A\u00ae Diet Lemonade or Sweetened Iced Tea.",
+      "PRICE": "$2.80"
+    },
+    {
+      "NAME": "Freshly-Brewed Iced Tea Sweetened",
+      "DESCRIPTION": "Freshly-brewed each day from a blend of tea leaves. Available sweetened with real cane sugar.",
+      "PRICE": "$2.00",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/bd6b8b4d-c41e-46af-a629-b999022f26d8-retina-large.jpg"
+    },
+    {
+      "NAME": "Freshly-Brewed Iced Tea Unsweetened",
+      "DESCRIPTION": "Freshly-brewed each day from a blend of tea leaves. Available \nunsweetened.",
+      "PRICE": "$2.00",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/e2b4f805-800e-4918-893a-68f37e66a52f-retina-large.jpg"
+    },
+    {
+      "NAME": "Chick-fil-A\u00ae Lemonade",
+      "DESCRIPTION": "Classic lemonade using three simple ingredients: real lemon juice\u2014not from concentrate, cane sugar, and water. Diet Lemonade is sweetened with Splenda\u00ae No Calorie Sweetener",
+      "PRICE": "$2.40",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/464612aa-a676-43b0-a21d-ad70a5a30880-retina-large.jpg"
+    },
+    {
+      "NAME": "Chick-fil-A\u00ae Diet Lemonade",
+      "DESCRIPTION": "Classic lemonade using three simple ingredients: real lemon juice\u2014not from concentrate, cane sugar, and water. Diet Lemonade is sweetened with Splenda\u00ae No Calorie Sweetener.",
+      "PRICE": "$2.40",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/967f5439-fb37-4d35-a885-935445a7ed59-retina-large.jpg"
+    },
+    {
+      "NAME": "1/2 Sweet Tea 1/2 Unsweet Tea",
+      "PRICE": "$2.00",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/f8537dff-a9cf-4911-a2f8-9b16819fb154-retina-large.jpg"
+    },
+    {
+      "NAME": "1/2 Sweet Tea 1/2 Lemonade",
+      "PRICE": "$2.40",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/f8537dff-a9cf-4911-a2f8-9b16819fb154-retina-large.jpg"
+    },
+    {
+      "NAME": "1/2 Sweet Tea 1/2 Diet Lemonade",
+      "PRICE": "$2.40",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/f8537dff-a9cf-4911-a2f8-9b16819fb154-retina-large.jpg"
+    },
+    {
+      "NAME": "1/2 Unsweet Tea 1/2 Lemonade",
+      "PRICE": "$2.40",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/f8537dff-a9cf-4911-a2f8-9b16819fb154-retina-large.jpg"
+    },
+    {
+      "NAME": "1/2 Unsweet Tea 1/2 Diet Lemonade",
+      "PRICE": "$2.40",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/f8537dff-a9cf-4911-a2f8-9b16819fb154-retina-large.jpg"
+    },
+    {
+      "NAME": "1/2 Lemonade 1/2 Diet Lemonade",
+      "PRICE": "$2.40",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/464612aa-a676-43b0-a21d-ad70a5a30880-retina-large.jpg"
+    },
+    {
+      "NAME": "Iced Coffee",
+      "DESCRIPTION": "Handcrafted daily, made with a custom blend of cold-brewed coffee and 2% milk, sweetened with pure cane sugar and served over ice. Our coffee beans are sourced by THRIVE Farmers, a farmer-direct coffee company that enriches the lives and communities of those who grow it. Available all day in Original or Vanilla.",
+      "PRICE": "$3.50",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/52beee43-51c9-4437-b80b-af4790f26085-retina-large.jpg"
+    },
+    {
+      "NAME": "Coca-Cola\u00ae",
+      "DESCRIPTION": "Fountain beverage. A product of The Coca-Cola Company.",
+      "PRICE": "$2.00",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/a05025ff-480d-4e2c-89b4-4cc6c43b644c-retina-large.jpg"
+    },
+    {
+      "NAME": "Diet Coke\u00ae",
+      "DESCRIPTION": "Fountain beverage. A product of The Coca-Cola Company.",
+      "PRICE": "$2.00",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/d151a709-018a-4032-82ad-7e79c954f94f-retina-large.jpg"
+    },
+    {
+      "NAME": "Coca-Cola\u00ae Zero Sugar",
+      "DESCRIPTION": "Fountain beverage. A product of The Coca-Cola Company.",
+      "PRICE": "$2.00",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/f97ef45a-cc6b-4e76-9916-3ed07d222d15-retina-large.jpg"
+    },
+    {
+      "NAME": "Coca-Cola\u00ae Cherry",
+      "DESCRIPTION": "Fountain beverage. A product of The Coca-Cola Company.",
+      "PRICE": "$2.00",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/5aa5d059-68ae-43ae-89cb-fe19f2023c3a-retina-large-jpeg"
+    },
+    {
+      "NAME": "Sprite\u00ae",
+      "DESCRIPTION": "Fountain beverage. A product of The Coca-Cola Company.",
+      "PRICE": "$2.00",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/54209f5a-63f5-4394-b0d1-5f240a9e6d76-retina-large.jpg"
+    },
+    {
+      "NAME": "Dr Pepper\u00ae",
+      "DESCRIPTION": "Fountain beverage.  A product of Dr Pepper Snapple Group, Inc.",
+      "PRICE": "$2.00",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/98643d73-d694-4679-a570-4c740d4506d8-retina-large.jpg"
+    },
+    {
+      "NAME": "Diet Dr Pepper\u00ae",
+      "DESCRIPTION": "Fountain beverage.  A product of Dr Pepper Snapple Group, Inc.",
+      "PRICE": "$2.00",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/8e730661-40f2-47ea-a77a-1cc61cb98bbe-retina-large.jpg"
+    },
+    {
+      "NAME": "Barq's\u00ae Root Beer",
+      "DESCRIPTION": "Fountain beverage. A product of The Coca-Cola Company.",
+      "PRICE": "$2.00",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/43f25bf9-42b9-411c-9737-c4e424d7788f-retina-large-jpeg"
+    },
+    {
+      "NAME": "Hi-C\u00ae Fruit Punch",
+      "DESCRIPTION": "Fountain beverage. A product of The Coca-Cola Company.",
+      "PRICE": "$2.00",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/bf27011c-d79d-4f35-9fd6-a7391d67cd67-retina-large-jpeg"
+    },
+    {
+      "NAME": "Gallon Beverages",
+      "DESCRIPTION": "Gallon beverage filled with your choice of tea or lemonade",
+      "PRICE": "$7.45",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/e32de4a2-a349-45ef-98dc-7c4db983042f-retina-large.jpg"
+    },
+    {
+      "NAME": "POWERADE\u00ae",
+      "DESCRIPTION": "Fountain beverage. A product of The Coca-Cola Company.",
+      "PRICE": "$2.00",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/a6c4e141-0c41-486e-8cf3-46da5196cfe7-retina-large.jpg"
+    },
+    {
+      "NAME": "DASANI\u00ae Bottled Water",
+      "DESCRIPTION": "Purified water that is carefully designed and enhanced with minerals for a pure, fresh taste. DASANI\u00ae is a registered trademark of The Coca-Cola\u00ae Company.",
+      "PRICE": "$2.45",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/5a94f405-3a93-451d-aa0c-51aee6ed91d6-retina-large.jpg"
+    },
+    {
+      "NAME": "Honest Kids\u00ae Apple Juice",
+      "DESCRIPTION": "Honest Kids\u00ae Apple Juice (juice box with straw).",
+      "PRICE": "$1.90",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/c9957ae8-2eb4-4775-b52f-2ce51eb2d2d9-retina-large.jpg"
+    },
+    {
+      "NAME": "Simply Orange\u00ae",
+      "DESCRIPTION": "100% pure-squeezed, pasteurized Orange Juice.",
+      "PRICE": "$3.30",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/06d56007-4d18-4b61-9879-d1a0fbd3fd7c-retina-large.jpg"
+    },
+    {
+      "NAME": "1% Chocolate Milk",
+      "PRICE": "$1.90",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/feeaa2ed-2c86-4fc5-b36c-436db55b8c85-retina-large.jpg"
+    },
+    {
+      "NAME": "1% White Milk",
+      "PRICE": "$1.90",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/edb5a530-bac3-4d02-9626-29b2bfd94404-retina-large.jpg"
+    },
+    {
+      "NAME": "5 lb Bag of Ice",
+      "PRICE": "$2.00"
+    },
+    {
+      "NAME": "Cobb Salad",
+      "DESCRIPTION": "Chick-fil-A\u00ae Nuggets, freshly breaded and pressure-cooked, sliced and served on a fresh bed of mixed greens, topped with roasted corn kernels, a blend of shredded Monterey Jack and Cheddar cheeses, crumbled bacon, sliced hard-boiled egg and grape tomatoes. Made fresh daily. Served with Charred Tomato and Crispy Red Bell Peppers. Pairs well with Avocado Lime Ranch dressing.",
+      "PRICE": "$8.05",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/ec6f9b7e-75aa-4f42-9bc5-5f1c6a0b3cb9-retina-large.jpg"
+    },
+    {
+      "NAME": "Spicy Southwest Salad",
+      "DESCRIPTION": "Slices of grilled spicy chicken breast served on a fresh bed of mixed\ngreens, topped with grape tomatoes, a blend of Monterey Jack and\nCheddar cheeses, and a zesty combination of poblano chiles, red bell\npeppers, roasted corn and black beans. Made fresh daily. Served with\nSeasoned Tortilla Strips, Chili Lime Pepitas, Creamy Salsa dressing or 2 packets of Jalape\u00f1o Salsa for an option with fewer calories (or guest\u2019s\nchoice of dressing).",
+      "PRICE": "$8.30",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/bcec965f-7570-46be-a552-80ec7c9d9ca3-retina-large.jpg"
+    },
+    {
+      "NAME": "Market Salad",
+      "DESCRIPTION": "Sliced grilled chicken breast served on a fresh bed of mixed greens,\ntopped with crumbled blue cheese and a mix of red and green apples,\nstrawberries and blueberries. Made fresh daily. Served with Harvest Nut Granola, Roasted Nut Blend and Light Balsamic Vinaigrette dressing (or\nguest?s choice of dressing).",
+      "PRICE": "$8.30",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/ab5fe7da-3c30-4626-8f71-1ca5f582e6fa-retina-large.jpg"
+    },
+    {
+      "NAME": "Frosted Lemonade",
+      "DESCRIPTION": "This refreshing treat is a hand-spun combination of Chick-fil-A\u00ae Lemonade (or Diet Lemonade) and our signature Icedream\u00ae dessert.",
+      "PRICE": "$4.60",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/2a17a518-c07d-401b-8773-12a5669ddb9b-retina-large.jpg"
+    },
+    {
+      "NAME": "Frosted Coffee",
+      "DESCRIPTION": "A hand-spun treat that combines a custom blend of cold-brewed coffee with our signature Icedream\u00ae dessert.",
+      "PRICE": "$4.60",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/895edead-b4dd-49fa-8fcc-7d9d5fdd542c-retina-large.jpg"
+    },
+    {
+      "NAME": "Chocolate Chunk Cookie",
+      "DESCRIPTION": "Cookies have both semi-sweet dark and milk chocolate chunks, along with wholesome oats.",
+      "PRICE": "$1.75",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/025ca646-c54d-4c3a-b9ac-12c6d1197de1-retina-large.jpg"
+    },
+    {
+      "NAME": "Cookies & Cream Milkshake",
+      "DESCRIPTION": "Our creamy Milkshakes are hand-spun the old-fashioned way each time and feature delicious Chick-fil-A Icedream\u00c2\u00ae",
+      "PRICE": "$4.60",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/04ea0e7e-f39b-4727-a524-97d535a2a29f-retina-large.jpg"
+    },
+    {
+      "NAME": "Chocolate Milkshake",
+      "DESCRIPTION": "Our creamy Milkshakes are hand-spun the old-fashioned way each time and feature delicious Chick-fil-A Icedream\u00c2\u00ae",
+      "PRICE": "$4.60",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/feeaa2ed-2c86-4fc5-b36c-436db55b8c85-retina-large.jpg"
+    },
+    {
+      "NAME": "Strawberry Milkshake",
+      "DESCRIPTION": "Our creamy Milkshakes are hand-spun the old-fashioned way each time and feature delicious Chick-fil-A Icedream\u00c2\u00ae",
+      "PRICE": "$4.60",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/fce72dcd-18cf-4090-b5a6-dcc6901801a3-retina-large.jpg"
+    },
+    {
+      "NAME": "Vanilla Milkshake",
+      "DESCRIPTION": "Our creamy Milkshakes are hand-spun the old-fashioned way each time and feature delicious Chick-fil-A Icedream\u00c2\u00ae",
+      "PRICE": "$4.60",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/11ab3c38-5308-4500-9403-b843d7d8efe4-retina-large.jpg"
+    },
+    {
+      "NAME": "Peach Milkshake",
+      "DESCRIPTION": "Hand-spun the old-fashioned way, this refreshing milkshake features Chick-fil-A Icedream\u00ae and real peaches. Available seasonally for a limited time",
+      "PRICE": "$5.00"
+    },
+    {
+      "NAME": "8oz Chick-fil-A\u00ae Sauce",
+      "DESCRIPTION": "An 8-ounce, squeezable bottle of our classic dipping sauce with notes of mustard and a smoky tang.",
+      "PRICE": "$3.25"
+    },
+    {
+      "NAME": "8oz Polynesian Sauce",
+      "DESCRIPTION": "An 8-ounce, squeezable bottle of this sweet and sour sauce with a strong, tangy flavor.",
+      "PRICE": "$3.25"
+    },
+    {
+      "NAME": "8oz Garden Herb Ranch Sauce",
+      "DESCRIPTION": "An 8-ounce, squeezable bottle of this creamy buttermilk ranch sauce with savory garlic, onion, and herb flavors.",
+      "PRICE": "$3.25"
+    },
+    {
+      "NAME": "8oz Barbeque Sauce",
+      "DESCRIPTION": "An 8-ounce, squeezable bottle of our classic barbeque sauce, seasoned with spices, onion and garlic for a rich and bold flavor.",
+      "PRICE": "$3.25"
+    },
+    {
+      "NAME": "8oz Honey Mustard Sauce",
+      "DESCRIPTION": "An 8-ounce, squeezable bottle of this savory sauce with the robust flavor of mustard and spices combined with the sweetness of honey.",
+      "PRICE": "$3.25"
+    },
+    {
+      "NAME": "30 ct Chick-fil-A\u00ae Nuggets",
+      "DESCRIPTION": "Bite-sized pieces of boneless chicken breast, seasoned to perfection, freshly-breaded and pressure cooked in 100% refined peanut oil. Available with choice of dipping sauce.",
+      "PRICE": "$18.30",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/29eca559-c269-4bff-a8d0-757bd7cd9bac-retina-large-jpeg"
+    },
+    {
+      "NAME": "4 ct Chick-fil-A\u00ae Chicken Sandwich",
+      "DESCRIPTION": "A bundle of four boneless breasts of chicken seasoned to perfection, hand-breaded, pressure cooked in 100% refined peanut oil and served on toasted, buttered buns with dill pickle chips. **Please note that sandwiches are not customizable within this meal offering.** Calories per 4 count.",
+      "PRICE": "$19.20",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/03e0f570-3f1a-47ce-a4ae-52a086ea75c1-retina-large-jpeg"
+    },
+    {
+      "NAME": "4 ct Spicy Chicken Sandwich",
+      "DESCRIPTION": "A bundle of boneless breasts of chicken seasoned with a spicy blend of peppers, hand-breaded, pressure cooked in 100% refined peanut oil and served on toasted, buttered buns with dill pickle chips. **Please note that sandwiches are not customizable within this meal offering.** Calories per 4 count.",
+      "PRICE": "$20.65",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/3de17843-d820-4286-8272-2764b8f801ac-retina-large-jpeg"
+    },
+    {
+      "NAME": "4 ct Medium Chick-fil-A Waffle Potato Fries\u00ae",
+      "DESCRIPTION": "Waffle-cut potatoes cooked in canola oil until crispy outside and tender inside. Lightly sprinkled with Sea Salt. Served as a bundle of four. Calories per 4 count.",
+      "PRICE": "$9.80",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/f7bc9921-5961-4c9c-a05c-68734897dd5a-retina-large-jpeg"
+    },
+    {
+      "NAME": "4 ct Medium Mac & Cheese",
+      "DESCRIPTION": "A classic macaroni and cheese recipe featuring a special blend of cheeses including Parmesan, Cheddar, and Romano. Baked in-restaurant to form a crispy top layer of baked cheese. Served as a bundle of four. Calories per 4 count.",
+      "PRICE": "$16.25",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/3d996e68-b553-4d75-8a98-2107670d752b-retina-large-jpeg"
+    },
+    {
+      "NAME": "4 ct Chocolate Chunk Cookie",
+      "DESCRIPTION": "A bundle of four cookies with both semi-sweet dark and milk chocolate chunks, along with wholesome oats. Calories per 4 count.",
+      "PRICE": "$6.70",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/d6f64c95-8d4d-4bf1-a57e-f68f8ca0b674-retina-large-jpeg"
+    },
+    {
+      "NAME": "Gallon Freshly-Brewed Iced Tea Sweetened",
+      "DESCRIPTION": "Freshly-brewed each day from a blend of tea leaves. Available sweetened with real cane sugar or unsweetened.",
+      "PRICE": "$7.45",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/5de3b29f-9283-4357-af5c-4d6ebcf4d294-retina-large.jpg"
+    },
+    {
+      "NAME": "Gallon Freshly-Brewed Iced Tea Unsweetened",
+      "DESCRIPTION": "Freshly-brewed each day from a premium blend of tea leaves.",
+      "PRICE": "$7.45",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/fcdc8f63-a70a-4c2f-9c7e-70e3ad11cf3f-retina-large-jpeg"
+    },
+    {
+      "NAME": "Chicken Parmesan Meal Kit \u2013 Serves 2",
+      "DESCRIPTION": "A take-home, make it yourself kit with the ingredients needed to prepare and serve an easy and delicious meal from your kitchen. Our Chicken Parmesan Meal Kit comes with two perfectly seasoned, breaded, and pressure-cooked Chick-fil-A Original filets for you to serve with marinara sauce and Italian-style cheeses, and creamy garlic and lemon pasta. Spicy or grilled are also customizable options for filets. One kit includes ingredients for two servings.",
+      "PRICE": "$19.50",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/bc6df307-6956-4b99-b269-a17abb004c65-retina-large.jpg"
+    },
+    {
+      "NAME": "Chicken Parmesan Meal Kit \u2013 Serves 4",
+      "DESCRIPTION": "Two take-home, make it yourself kits with the ingredients needed to prepare and serve an easy and delicious meal from your kitchen. Our Chicken Parmesan Meal Kit comes with two perfectly seasoned, breaded, and pressure-cooked Chick-fil-A Original filets for you to serve with marinara sauce and Italian-style cheeses, and creamy garlic and lemon pasta. Spicy or grilled are also customizable options for filets. One kit includes ingredients for two servings.",
+      "PRICE": "$37.05",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/84539687-4355-4fb4-aca4-e2d1791903c1-retina-large.jpg"
+    },
+    {
+      "NAME": "4 ct Chocolate Chunk Cookie",
+      "DESCRIPTION": "A bundle of four cookies with both semi-sweet dark and milk chocolate chunks, along with wholesome oats. Calories per 4 count.",
+      "PRICE": "$6.70",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/d6f64c95-8d4d-4bf1-a57e-f68f8ca0b674-retina-large-jpeg"
+    },
+    {
+      "NAME": "Gallon Freshly-Brewed Iced Tea Sweetened",
+      "DESCRIPTION": "Freshly-brewed each day from a blend of tea leaves. Available sweetened with real cane sugar or unsweetened.",
+      "PRICE": "$7.45",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/5de3b29f-9283-4357-af5c-4d6ebcf4d294-retina-large.jpg"
+    },
+    {
+      "NAME": "Gallon Freshly-Brewed Iced Tea Unsweetened",
+      "DESCRIPTION": "Freshly-brewed each day from a premium blend of tea leaves.",
+      "PRICE": "$7.45",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/fcdc8f63-a70a-4c2f-9c7e-70e3ad11cf3f-retina-large-jpeg"
+    }
+  ]
+}

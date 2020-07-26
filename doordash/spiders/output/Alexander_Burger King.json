@@ -1,0 +1,574 @@
+{
+  "RESTNAME": "Burger King",
+  "TIME": "Burger King Menu Hours: 10:30 AM - 11:00 PM",
+  "RATINGS": {
+    "AVERAGE": "4.6",
+    "VOLUME": "108",
+    "POPULAR_ITEMS": [
+      {
+        "POP_NAME": "Chicken Fries - 9 Pc",
+        "POP_DESCRIPTION": "Made with white meat chicken, our Chicken Fries are coated in a light crispy breading seasoned with savory spices and herbs. Chicken Fries are shaped like fries and are perfect to dip in any of our delicious dipping sauces. Choose from BBQ, Honey Mustard, Ranch, Zesty, Buffalo and Sweet & Sour.",
+        "POP_PRICE": "$3.89"
+      },
+      {
+        "POP_NAME": "Whopper with Cheese",
+        "POP_DESCRIPTION": "Our Whopper Sandwich is a 1/4 lb* of savory flame\u00ad-grilled beef topped with American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. *Based on pre\u00ad-cooked patty weight.",
+        "POP_PRICE": "$6.09"
+      },
+      {
+        "POP_NAME": "Original Chicken Sandwich",
+        "POP_DESCRIPTION": "Our Original Chicken Sandwich is lightly breaded and topped with a simple combination of shredded lettuce and creamy mayonnaise on a sesame seed bun.",
+        "POP_PRICE": "$4.79"
+      },
+      {
+        "POP_NAME": "Whopper with Cheese Meal",
+        "POP_DESCRIPTION": "Our Whopper Sandwich is a 1/4 lb* of savory flame\u00ad-grilled beef topped with American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.*Based on pre-cooked patty weight.",
+        "POP_PRICE": "$9.89"
+      },
+      {
+        "POP_NAME": "Whopper Meal",
+        "POP_DESCRIPTION": "Our Whopper Sandwich is a 1/4 lb* of savory flame-grilled beef topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.*Based on pre-cooked patty weight.",
+        "POP_PRICE": "$8.89"
+      },
+      {
+        "POP_NAME": "Spicy Crispy Chicken Sandwich",
+        "POP_DESCRIPTION": "Made with juicy, tender and crispy 100% white meat chicken, seasoned and breaded with bold flavors and just the right amount of heat; topped with fresh lettuce, ripe tomato, and creamy mayonnaise all on a potato bun.",
+        "POP_PRICE": "$5.59"
+      },
+      {
+        "POP_NAME": "Chicken Fries - 9 Pc Meal",
+        "POP_DESCRIPTION": "Made with white meat chicken, our Chicken Fries are coated in a light crispy breading seasoned with savory spices and herbs. Chicken Fries are shaped like fries and are perfect to dip in any of our delicious dipping sauces. Choose from BBQ, Honey Mustard, Ranch, Zesty, Buffalo and Sweet & Sour. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.",
+        "POP_PRICE": "$7.79"
+      },
+      {
+        "POP_NAME": "8pc Jalapeno Cheddar Bites",
+        "POP_DESCRIPTION": "Our Jalape\u00f1o Cheddar Bites are filled with gooey cheddar cheese and spicy jalape\u00f1o pieces, covered in a light, crispy coating. Served hot and melty with your order.",
+        "POP_PRICE": "$3.49"
+      }
+    ]
+  },
+  "ADDRESS": "Dinnerdelivered fromBurger KingatBurger King, 3001 N Reynolds Rd, Bryant, AR 72022, USA",
+  "MENU": [
+    {
+      "NAME": "Chicken Fries - 9 Pc",
+      "DESCRIPTION": "Made with white meat chicken, our Chicken Fries are coated in a light crispy breading seasoned with savory spices and herbs. Chicken Fries are shaped like fries and are perfect to dip in any of our delicious dipping sauces. Choose from BBQ, Honey Mustard, Ranch, Zesty, Buffalo and Sweet & Sour.",
+      "PRICE": "$3.89",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/94bbda7f-056e-40ed-b1a5-b19dacd253b6-retina-large.jpg"
+    },
+    {
+      "NAME": "Whopper with Cheese",
+      "DESCRIPTION": "Our Whopper Sandwich is a 1/4 lb* of savory flame\u00ad-grilled beef topped with American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. *Based on pre\u00ad-cooked patty weight.",
+      "PRICE": "$6.09",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/6e2980bf-3f31-4dcf-abd6-4cac4bea19ec-retina-large.jpg"
+    },
+    {
+      "NAME": "Original Chicken Sandwich",
+      "DESCRIPTION": "Our Original Chicken Sandwich is lightly breaded and topped with a simple combination of shredded lettuce and creamy mayonnaise on a sesame seed bun.",
+      "PRICE": "$4.79",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/6da9e985-b0f8-43db-ac4d-e5f78d921a0c-retina-large.jpg"
+    },
+    {
+      "NAME": "Whopper with Cheese Meal",
+      "DESCRIPTION": "Our Whopper Sandwich is a 1/4 lb* of savory flame\u00ad-grilled beef topped with American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.*Based on pre-cooked patty weight.",
+      "PRICE": "$9.89",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/2a9e711e-ed60-494c-9730-39a61d4e1e2e-retina-large.jpg"
+    },
+    {
+      "NAME": "Whopper Meal",
+      "DESCRIPTION": "Our Whopper Sandwich is a 1/4 lb* of savory flame-grilled beef topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.*Based on pre-cooked patty weight.",
+      "PRICE": "$8.89",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/f878a689-618b-4c70-a00f-e7b1f320adc9-retina-large.jpg"
+    },
+    {
+      "NAME": "Spicy Crispy Chicken Sandwich",
+      "DESCRIPTION": "Made with juicy, tender and crispy 100% white meat chicken, seasoned and breaded with bold flavors and just the right amount of heat; topped with fresh lettuce, ripe tomato, and creamy mayonnaise all on a potato bun.",
+      "PRICE": "$5.59",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/73a8aacc-d3dd-45eb-a856-0aca65453001-retina-large.jpg"
+    },
+    {
+      "NAME": "Chicken Fries - 9 Pc Meal",
+      "DESCRIPTION": "Made with white meat chicken, our Chicken Fries are coated in a light crispy breading seasoned with savory spices and herbs. Chicken Fries are shaped like fries and are perfect to dip in any of our delicious dipping sauces. Choose from BBQ, Honey Mustard, Ranch, Zesty, Buffalo and Sweet & Sour. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.",
+      "PRICE": "$7.79",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/a296c580-b1e6-42da-afb4-9e3560bda704-retina-large.jpg"
+    },
+    {
+      "NAME": "8pc Jalapeno Cheddar Bites",
+      "DESCRIPTION": "Our Jalape\u00f1o Cheddar Bites are filled with gooey cheddar cheese and spicy jalape\u00f1o pieces, covered in a light, crispy coating. Served hot and melty with your order.",
+      "PRICE": "$3.49",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/4d2dd5a4-24e1-43de-b108-b3830ef7eecc-retina-large-jpeg"
+    },
+    {
+      "NAME": "Big King XL",
+      "DESCRIPTION": "Featuring more than 1/2 lb* of flame-grilled 100% beef, topped with American cheese, sliced onions, zesty pickles, crisp lettuce and our special XL sauce all on a toasted sesame bun. *Weight based on pre-cooked patties.",
+      "PRICE": "$7.89",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/2453782a-fa28-414e-a29e-6c41667180d4-retina-large.jpg"
+    },
+    {
+      "NAME": "Big King XL Meal",
+      "DESCRIPTION": "Featuring more than 1/2 lb* of flame-grilled 100% beef, topped with American cheese, sliced onions, zesty pickles, crisp lettuce and our special XL sauce all on a toasted sesame bun.  *Weight based on pre-cooked patties. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.",
+      "PRICE": "$11.59",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/1ca6af74-f0c9-42ea-91f8-75f66d97d10b-retina-large.jpg"
+    },
+    {
+      "NAME": "Impossible\u2122 Whopper",
+      "DESCRIPTION": "Our Impossible\u2122 Whopper Sandwich features a savory flame-grilled patty made from plants topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. 100% Whopper, 0% Beef. *Cooked on the same grill as meat. Alternate cooking method available upon request.",
+      "PRICE": "$6.09",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/37c9a2c6-f21e-4a54-88db-62817be29de1-retina-large.jpg"
+    },
+    {
+      "NAME": "Impossible\u2122 Whopper Meal",
+      "DESCRIPTION": "Our Impossible\u2122 Whopper Sandwich features a savory flame-grilled patty made from plants topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. 100% Whopper, 0% Beef. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal. *Cooked on the same grill as meat. Alternate cooking method available upon request.",
+      "PRICE": "$9.99",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/37c9a2c6-f21e-4a54-88db-62817be29de1-retina-large.jpg"
+    },
+    {
+      "NAME": "Bacon King Sandwich",
+      "DESCRIPTION": "Our Bacon King Sandwich features two 1/4 lb* savory flame-grilled beef patties, topped a with hearty portion of thick-cut smoked bacon, melted American cheese and topped with ketchup and creamy mayonnaise all on a soft sesame seed bun.*Based on pre-cooked patty weight.",
+      "PRICE": "$8.49",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/0ea0aaed-d7b8-4df6-abb3-1a6eb025b066-retina-large.jpg"
+    },
+    {
+      "NAME": "Whopper",
+      "DESCRIPTION": "Our Whopper Sandwich is a 1/4 lb* of savory flame-grilled beef topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. *Based on pre-cooked patty weight.",
+      "PRICE": "$4.99",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/943be0e5-2771-4804-8c31-df7965f5c390-retina-large.jpg"
+    },
+    {
+      "NAME": "Double Whopper",
+      "DESCRIPTION": "Our Double Whopper Sandwich is a pairing of two 1/4 lb* savory flame-grilled beef patties topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. *Based on pre-cooked patty weight.",
+      "PRICE": "$6.99",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/77b93d45-59ee-48f1-bbf9-6bca4f858abb-retina-large.jpg"
+    },
+    {
+      "NAME": "Triple Whopper",
+      "DESCRIPTION": "Our Triple Whopper Sandwich includes three 1/4 lb* savory flame-grilled beef patties topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun.",
+      "PRICE": "$8.89",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/daf1ed16-ac9a-4f49-99d0-0eaaba39149d-retina-large.jpg"
+    },
+    {
+      "NAME": "Whopper with Cheese",
+      "DESCRIPTION": "Our Whopper Sandwich is a 1/4 lb* of savory flame\u00ad-grilled beef topped with American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. *Based on pre\u00ad-cooked patty weight.",
+      "PRICE": "$6.09",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/6e2980bf-3f31-4dcf-abd6-4cac4bea19ec-retina-large.jpg"
+    },
+    {
+      "NAME": "Whopper with Bacon & Cheese",
+      "DESCRIPTION": "Our Whopper Sandwich is a 1/4 lb* of savory flame-\u00adgrilled beef topped with thick\u00ad-cut smoked bacon, American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. *Based on pre-\u00adcooked patty weight.",
+      "PRICE": "$7.69",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/03da0b19-fd48-4d4e-b999-c0470f04a585-retina-large.jpg"
+    },
+    {
+      "NAME": "Double Whopper with Cheese",
+      "DESCRIPTION": "Our Double Whopper Sandwich is a pairing of two 1/4 lb* savory flame\u00ad-grilled beef patties topped with American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. *Based on pre\u00ad-cooked patty weight.",
+      "PRICE": "$8.09",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/6e2980bf-3f31-4dcf-abd6-4cac4bea19ec-retina-large.jpg"
+    },
+    {
+      "NAME": "Double Whopper with Bacon & Cheese",
+      "DESCRIPTION": "Our Double Whopper Sandwich is a pairing of two 1/4 lb* savory flame-\u00adgrilled beef patties topped with thick-cut smoked bacon, American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. *Based on pre\u00ad-cooked patty weight.",
+      "PRICE": "$9.19",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/6e2980bf-3f31-4dcf-abd6-4cac4bea19ec-retina-large.jpg"
+    },
+    {
+      "NAME": "Triple Whopper with Cheese",
+      "DESCRIPTION": "Our Triple Whopper Sandwich includes three 1/4 lb* savory flame-grilled beef patties topped with American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. *Based on pre\u00ad-cooked patty weight.",
+      "PRICE": "$10.99",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/05b326f7-986e-49b4-8bfa-5da8f0c0c729-retina-large.jpg"
+    },
+    {
+      "NAME": "Triple Whopper with Bacon & Cheese",
+      "DESCRIPTION": "Our Triple Whopper Sandwich includes three 1/4 lb* savory flame-grilled beef patties topped with thick-cut smoked bacon, American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. *Based on pre\u00ad-cooked patty weight.",
+      "PRICE": "$11.89"
+    },
+    {
+      "NAME": "Whopper Jr.",
+      "DESCRIPTION": "Our Whopper Jr. Sandwich features one savory flame-grilled beef patty topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun.",
+      "PRICE": "$2.49",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/4ba41b51-8be8-4e7e-be4f-962757113c23-retina-large.jpg"
+    },
+    {
+      "NAME": "Whopper Jr. with Cheese",
+      "DESCRIPTION": "Our Whopper Jr. Sandwich features one savory flame-\u00adgrilled beef patty topped with American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun.",
+      "PRICE": "$2.99",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/ec6c78b1-0450-4c82-b0ac-fc00d942aa3f-retina-large.jpg"
+    },
+    {
+      "NAME": "Quarter Pound King",
+      "DESCRIPTION": "Featuring flame-grilled 100% beef, topped with all of our classic favorites: American cheese, freshly sliced onions, zesty pickles, ketchup, & mustard all on a toasted sesame seed bun. *Weight based on pre-cooked patties.",
+      "PRICE": "$5.45",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/d4a21561-8794-449b-a86f-ddcc713c391a-retina-large.jpg"
+    },
+    {
+      "NAME": "Bacon Cheeseburger",
+      "DESCRIPTION": "You can\u2019t go wrong with our Bacon Cheeseburger, a signature flame-grilled beef patty topped with smoked bacon and a layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.",
+      "PRICE": "$2.19",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/a9a50713-a4f4-4859-a408-bd9f322227e7-retina-large.jpg"
+    },
+    {
+      "NAME": "Double Cheeseburger",
+      "DESCRIPTION": "Make room for our Double Cheeseburger, two signature flame-grilled beef patties topped with a simple layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.",
+      "PRICE": "$2.19",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/69789846-1c82-43a3-8ef3-f44970395720-retina-large.jpg"
+    },
+    {
+      "NAME": "Bacon Double Cheeseburger",
+      "DESCRIPTION": "Make room for our Bacon Double Cheeseburger, two signature flame-grilled beef patties topped with smoked bacon and a simple layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.",
+      "PRICE": "$2.79",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/1997114d-bd0f-4f7d-a1a8-138b5c1437fc-retina-large.jpg"
+    },
+    {
+      "NAME": "Bacon King Sandwich Meal",
+      "DESCRIPTION": "Our Bacon King Sandwich features two 1/4 lb* savory flame-grilled beef patties, topped a with hearty portion of thick-cut smoked bacon, melted American cheese and topped with ketchup and creamy mayonnaise all on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal. *Based on pre-cooked patty weight.",
+      "PRICE": "$11.11",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/0ea0aaed-d7b8-4df6-abb3-1a6eb025b066-retina-large.jpg"
+    },
+    {
+      "NAME": "Whopper Meal",
+      "DESCRIPTION": "Our Whopper Sandwich is a 1/4 lb* of savory flame-grilled beef topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.*Based on pre-cooked patty weight.",
+      "PRICE": "$8.89",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/f878a689-618b-4c70-a00f-e7b1f320adc9-retina-large.jpg"
+    },
+    {
+      "NAME": "Double Whopper Meal",
+      "DESCRIPTION": "Our Double Whopper Sandwich is a pairing of two 1/4 lb* savory flame-grilled beef patties topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.*Based on pre-cooked patty weight.",
+      "PRICE": "$10.59",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/45addf4a-e8a8-47cb-a705-cce1d10ce86d-retina-large.jpg"
+    },
+    {
+      "NAME": "Triple Whopper Meal",
+      "DESCRIPTION": "Our Triple Whopper Sandwich includes three 1/4 lb* savory flame-grilled beef patties topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.*Based on pre-cooked patty weight.",
+      "PRICE": "$11.89",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/8b629953-0907-41d9-ae5e-fd134cbbd2c3-retina-large.jpg"
+    },
+    {
+      "NAME": "Double Quarter Pound King Meal",
+      "DESCRIPTION": "Featuring more than \u00bd lb.* of flame-grilled 100% beef, topped with all of our classic favorites: American cheese, freshly sliced onions, zesty pickles, ketchup, & mustard all on a toasted sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.*Weight based on pre-cooked patties.",
+      "PRICE": "$10.89",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/c9d0e3b4-85f3-4d18-bdec-220e004f5986-retina-large.jpg"
+    },
+    {
+      "NAME": "Whopper with Cheese Meal",
+      "DESCRIPTION": "Our Whopper Sandwich is a 1/4 lb* of savory flame\u00ad-grilled beef topped with American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.*Based on pre-cooked patty weight.",
+      "PRICE": "$9.89",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/2a9e711e-ed60-494c-9730-39a61d4e1e2e-retina-large.jpg"
+    },
+    {
+      "NAME": "Whopper with Bacon & Cheese Meal",
+      "DESCRIPTION": "Our Whopper Sandwich is a 1/4 lb* of savory flame\u00ad-grilled beef topped with thick\u00ad-cut smoked bacon, American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal. *Based on pre\u00ad-cooked patty weight.",
+      "PRICE": "$11.09",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/37c9a2c6-f21e-4a54-88db-62817be29de1-retina-large.jpg"
+    },
+    {
+      "NAME": "Double Whopper with Cheese Meal",
+      "DESCRIPTION": "Our Double Whopper Sandwich is a pairing of two 1/4 lb* savory flame\u00ad-grilled beef patties topped with American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal. *Based on pre-\u00adcooked patty weight.",
+      "PRICE": "$11.79",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/6e2980bf-3f31-4dcf-abd6-4cac4bea19ec-retina-large.jpg"
+    },
+    {
+      "NAME": "Double Whopper with Bacon & Cheese Meal",
+      "DESCRIPTION": "Our Double Whopper Sandwich is a pairing of two 1/4 lb* savory flame-grilled beef patties topped with thick-cut smoked bacon, American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal. *Based on pre\u00ad-cooked patty weight.",
+      "PRICE": "$12.29",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/d70df4ec-ff4f-4940-ae42-76a060b201d7-retina-large.jpg"
+    },
+    {
+      "NAME": "Triple Whopper with Cheese Meal",
+      "DESCRIPTION": "Our Triple Whopper Sandwich includes three 1/4 lb* savory flame-grilled beef patties topped with American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal. *Based on pre\u00ad-cooked patty weight.",
+      "PRICE": "$14.89"
+    },
+    {
+      "NAME": "Triple Whopper with Bacon & Cheese Meal",
+      "DESCRIPTION": "Our Triple Whopper Sandwich includes three 1/4 lb* savory flame-grilled beef patties topped with thick-cut smoked bacon, American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal. *Based on pre\u00ad-cooked patty weight.",
+      "PRICE": "$15.49"
+    },
+    {
+      "NAME": "Whopper Jr. Meal",
+      "DESCRIPTION": "Our Whopper Jr. Sandwich features one savory flame-grilled beef patty topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.",
+      "PRICE": "$6.60",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/581cb596-2750-423a-8938-0e5ad7706d7a-retina-large.jpg"
+    },
+    {
+      "NAME": "Whopper Jr. with Cheese Meal",
+      "DESCRIPTION": "Our Whopper Jr. Sandwich features one savory flame-\u00adgrilled beef patty topped with American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.",
+      "PRICE": "$6.89",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/59dad975-4697-4049-b212-97db38e79b42-retina-large.jpg"
+    },
+    {
+      "NAME": "Quarter Pound King Meal",
+      "DESCRIPTION": "Featuring flame-grilled 100% beef, topped with all of our classic favorites: American cheese, freshly sliced onions, zesty pickles, ketchup, & mustard all on a toasted sesame seed bun. *Weight based on pre-cooked patties. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.",
+      "PRICE": "$9.69"
+    },
+    {
+      "NAME": "Crispy Chicken Sandwich Meal",
+      "DESCRIPTION": "Our Crispy Sandwich is made with 100% white meat chicken filet, seasoned and breaded and carefully layered with fresh lettuce, ripe tomato, and creamy mayonnaise on a potato bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.",
+      "PRICE": "$9.49",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/e1521764-ccd0-4840-9d7f-59060a1bab5f-retina-large.jpg"
+    },
+    {
+      "NAME": "Crispy Chicken Sandwich with Cheese Meal",
+      "DESCRIPTION": "Our Crispy Sandwich is made with 100% white meat chicken filet, seasoned and breaded and carefully layered with American cheese, fresh lettuce, ripe tomato, and creamy mayonnaise on a potato bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.",
+      "PRICE": "$10.49",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/83d0fe42-c419-4bf7-99c1-ca358feda413-retina-large.jpg"
+    },
+    {
+      "NAME": "Crispy Chicken Sandwich with Bacon & Cheese Meal",
+      "DESCRIPTION": "Our Bacon & Cheese Crispy Chicken Sandwich is made with 100% white meat chicken filet, seasoned and breaded and carefully layered with thick-cut smoked bacon, American cheese, fresh lettuce, ripe tomato, and creamy mayonnaise on a potato bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.",
+      "PRICE": "$11.59",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/e9ee9cec-873b-4996-bbe8-059698a7583c-retina-large.jpg"
+    },
+    {
+      "NAME": "Spicy Crispy Chicken Sandwich Meal",
+      "DESCRIPTION": "Made with juicy, tender and crispy 100% white meat chicken, seasoned and breaded with bold flavors and just the right amount of heat; topped with fresh lettuce, ripe tomato, and creamy mayonnaise all on a potato bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.",
+      "PRICE": "$9.50",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/a3b06e15-6e55-4d40-a0f8-4587a7de428b-retina-large.jpg"
+    },
+    {
+      "NAME": "Original Chicken Sandwich Meal",
+      "DESCRIPTION": "Our Original Chicken Sandwich is lightly breaded and topped with a simple combination of shredded lettuce and creamy mayonnaise on a sesame seed bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.",
+      "PRICE": "$8.59",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/a38222f2-e12f-4c1f-8224-76f4f21fb967-retina-large.jpg"
+    },
+    {
+      "NAME": "BBQ Bacon Crispy Chicken Sandwich Meal",
+      "DESCRIPTION": "Our BBQ Bacon Crispy Chicken Sandwich is made with 100% white meat chicken filet, which is seasoned and breaded, topped with thick-cut smoked bacon, sweet and tangy BBQ sauce, fresh lettuce, ripe tomato, and creamy mayonnaise all on a potato bun.Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.",
+      "PRICE": "$10.49"
+    },
+    {
+      "NAME": "Chicken Fries - 9 Pc Meal",
+      "DESCRIPTION": "Made with white meat chicken, our Chicken Fries are coated in a light crispy breading seasoned with savory spices and herbs. Chicken Fries are shaped like fries and are perfect to dip in any of our delicious dipping sauces. Choose from BBQ, Honey Mustard, Ranch, Zesty, Buffalo and Sweet & Sour. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.",
+      "PRICE": "$7.79",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/a296c580-b1e6-42da-afb4-9e3560bda704-retina-large.jpg"
+    },
+    {
+      "NAME": "Big Fish Sandwich Meal",
+      "DESCRIPTION": "Our premium Big Fish Sandwich is 100% White Alaskan Pollock, breaded with crispy panko breading and topped with sweet tartar sauce, tangy pickles, all on top of a toasted brioche-style bun. Meal comes in medium and large sizes with a side of piping hot, thick cut French Fries and a fountain drink of your choice to make it a meal.",
+      "PRICE": "$8.69",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/eccd8cfa-71bb-4d1d-a7dd-fc055b88bc7e-retina-large.jpg"
+    },
+    {
+      "NAME": "Crispy Chicken Sandwich",
+      "DESCRIPTION": "Our Crispy Sandwich is made with 100% white meat chicken filet, seasoned and breaded and carefully layered with fresh lettuce, ripe tomato, and creamy mayonnaise on a potato bun.",
+      "PRICE": "$5.69",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/6388c46f-3cd9-4b38-9d60-10c759f6e3d5-retina-large.jpg"
+    },
+    {
+      "NAME": "Crispy Chicken Sandwich with Cheese",
+      "DESCRIPTION": "Our Crispy Sandwich is made with 100% white meat chicken filet, seasoned and breaded and carefully layered with American cheese, fresh lettuce, ripe tomato, and creamy mayonnaise on a potato bun.",
+      "PRICE": "$6.79",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/c25da6bd-bc92-43ef-af8e-93f229019613-retina-large.jpg"
+    },
+    {
+      "NAME": "Crispy Chicken Sandwich with Bacon & Cheese",
+      "DESCRIPTION": "Our Bacon & Cheese Crispy Chicken Sandwich is made with 100% white meat chicken filet, seasoned and breaded and carefully layered with thick-cut smoked bacon, American cheese, fresh lettuce, ripe tomato, and creamy mayonnaise on a potato bun.",
+      "PRICE": "$7.79",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/c25da6bd-bc92-43ef-af8e-93f229019613-retina-large.jpg"
+    },
+    {
+      "NAME": "Spicy Crispy Chicken Sandwich",
+      "DESCRIPTION": "Made with juicy, tender and crispy 100% white meat chicken, seasoned and breaded with bold flavors and just the right amount of heat; topped with fresh lettuce, ripe tomato, and creamy mayonnaise all on a potato bun.",
+      "PRICE": "$5.59",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/73a8aacc-d3dd-45eb-a856-0aca65453001-retina-large.jpg"
+    },
+    {
+      "NAME": "BBQ Bacon Crispy Chicken Sandwich",
+      "DESCRIPTION": "Our BBQ Bacon Crispy Chicken Sandwich is made with 100% white meat chicken filet, which is seasoned and breaded, topped with thick-cut smoked bacon, sweet and tangy BBQ sauce, fresh lettuce, ripe tomato, and creamy mayonnaise all on a potato bun.",
+      "PRICE": "$6.59",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/6071d29e-e670-4454-9b48-b9fa28b620a6-retina-large.jpg"
+    },
+    {
+      "NAME": "Original Chicken Sandwich",
+      "DESCRIPTION": "Our Original Chicken Sandwich is lightly breaded and topped with a simple combination of shredded lettuce and creamy mayonnaise on a sesame seed bun.",
+      "PRICE": "$4.79",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/6da9e985-b0f8-43db-ac4d-e5f78d921a0c-retina-large.jpg"
+    },
+    {
+      "NAME": "Spicy Nuggets - 10 Pc",
+      "DESCRIPTION": "Made with white meat, our bite-sized Chicken Nuggets are tender and juicy on the inside and crispy on the outside. Coated in a homestyle spicy seasoned breading, they are perfect for dipping in any of our delicious dipping sauces.",
+      "PRICE": "$1.84"
+    },
+    {
+      "NAME": "Chicken Nuggets - 10 Pc",
+      "DESCRIPTION": "Made with white meat, our bite-sized Chicken Nuggets are tender and juicy on the inside and crispy on the outside. Coated in a homestyle seasoned breading, they are perfect for dipping in any of our delicious dipping sauces. Price includes 1 sauce of your choice.",
+      "PRICE": "$1.79",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/f14e6c45-2c17-4fdb-ae88-ee2930012b3d-retina-large-jpeg"
+    },
+    {
+      "NAME": "Chicken Nuggets - 4 Pc",
+      "DESCRIPTION": "Made with white meat, our bite-sized Chicken Nuggets are tender and juicy on the inside and crispy on the outside. Coated in a homestyle seasoned breading, they are perfect for dipping in any of our delicious dipping sauces. Price includes 1 sauce of your choice.",
+      "PRICE": "$1.29",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/6dc449ac-3f0b-4d9b-ba45-8d7d0b81538b-retina-large.jpg"
+    },
+    {
+      "NAME": "Chicken Fries - 9 Pc",
+      "DESCRIPTION": "Made with white meat chicken, our Chicken Fries are coated in a light crispy breading seasoned with savory spices and herbs. Chicken Fries are shaped like fries and are perfect to dip in any of our delicious dipping sauces. Choose from BBQ, Honey Mustard, Ranch, Zesty, Buffalo and Sweet & Sour.",
+      "PRICE": "$3.89",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/94bbda7f-056e-40ed-b1a5-b19dacd253b6-retina-large.jpg"
+    },
+    {
+      "NAME": "Big Fish Sandwich",
+      "DESCRIPTION": "Our premium Big Fish Sandwich is 100% White Alaskan Pollock, breaded with crispy panko breading and topped with sweet tartar sauce, tangy pickles, all on top of a toasted brioche-style bun.",
+      "PRICE": "$4.59",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/4102a0db-f1ef-478e-959b-7a5ca2e72fba-retina-large.jpg"
+    },
+    {
+      "NAME": "Crispy Chicken Club Salad",
+      "DESCRIPTION": "Our Crispy Chicken Club Salad is a mix of crispy green romaine, green leaf and radicchio lettuce, thick-cut smoked bacon pieces, shredded cheddar cheese, juicy-ripened tomatoes, and buttery garlic croutons.",
+      "PRICE": "$7.39"
+    },
+    {
+      "NAME": "Crispy Chicken Garden Salad",
+      "DESCRIPTION": "Our Crispy Chicken Garden Salad is a mix of crisp green romaine, green leaf and radicchio lettuce, juicy-ripened tomatoes, buttery garlic croutons, and shredded cheddar cheese.",
+      "PRICE": "$6.99"
+    },
+    {
+      "NAME": "Soft Drink",
+      "PRICE": "$2.59",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/de43c4af-0575-4e51-9f42-18db9e6ce9a3-retina-large.jpg"
+    },
+    {
+      "NAME": "Frozen Coke\u00ae",
+      "DESCRIPTION": "Cool down with a Frozen Coke\u00ae any time of the year.*Nutrition information reflects Medium Size Cup.\u00a9 The Coca-Cola Company. Coke\" is a registered trademark of The Coca-Cola Company.\"",
+      "PRICE": "$1.79",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/b6c52ecd-ca8a-4aac-be22-5bff459f5dc3-retina-large.jpg"
+    },
+    {
+      "NAME": "Capri Sun\u00ae Apple Juice",
+      "DESCRIPTION": "100% real apple juice from concentrate with added ingredients. All natural beverage containing no preservatives.",
+      "PRICE": "$1.49",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/9f37021d-60e7-49be-8edc-62c6d452aca3-retina-large.jpg"
+    },
+    {
+      "NAME": "Minute Maid\u00ae Orange Juice",
+      "DESCRIPTION": "Minute Maid\u00ae Orange Juice explodes with flavor and is a good source of Vitamin C.\u00a9 The Coca-Cola Company. Minute Maid\" and \"Put Good In. Get Good Out.\" are registered trademarks of The Coca-Cola Company.\"",
+      "PRICE": "$1.69",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/a83435ef-5b03-4641-8398-611fc85f08cc-retina-large.jpg"
+    },
+    {
+      "NAME": "Fat Free Milk",
+      "DESCRIPTION": "A good source of Calcium and Vitamin D, Fat Free Milk is a cool and refreshing complement to any meal.",
+      "PRICE": "$1.69"
+    },
+    {
+      "NAME": "Chocolate Milk",
+      "DESCRIPTION": "Velvety Low Fat Chocolate Milk delivers wholesome sweetness and is packed with Calcium.",
+      "PRICE": "$1.69",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/bb600ba1-b453-468f-a571-8c010a600990-retina-large.jpg"
+    },
+    {
+      "NAME": "Bottled Nestl\u00e9\u00ae Pure Life\u00ae Purified Water",
+      "DESCRIPTION": "Nestl\u00e9\u00ae Pure Life\u00ae Purified Water, the exclusive bottled water of Burger King, is a cool and refreshing way to wash down your signature favorites. \u00a9 Nestl\u00e9 Waters North America Inc.",
+      "PRICE": "$1.39",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/7575788b-19bd-47cf-8fbb-cf7f793d5483-retina-large.jpg"
+    },
+    {
+      "NAME": "Iced Tea",
+      "DESCRIPTION": "Brewed fresh daily, our Iced Tea pairs seamlessly with many menu favorites. Also available in unsweetened iced tea.",
+      "PRICE": "$2.59",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/4df82096-25a3-49cd-a632-582d4a1a43ad-retina-large.jpg"
+    },
+    {
+      "NAME": "8pc Jalapeno Cheddar Bites",
+      "DESCRIPTION": "Our Jalape\u00f1o Cheddar Bites are filled with gooey cheddar cheese and spicy jalape\u00f1o pieces, covered in a light, crispy coating. Served hot and melty with your order.",
+      "PRICE": "$3.49",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/4d2dd5a4-24e1-43de-b108-b3830ef7eecc-retina-large-jpeg"
+    },
+    {
+      "NAME": "4pc Jalapeno Cheddar Bites",
+      "DESCRIPTION": "Our Jalape\u00f1o Cheddar Bites are filled with gooey cheddar cheese and spicy jalape\u00f1o pieces, covered in a light, crispy coating. Served hot and melty with your order.",
+      "PRICE": "$1.59",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/4d2dd5a4-24e1-43de-b108-b3830ef7eecc-retina-large-jpeg"
+    },
+    {
+      "NAME": "French Fries",
+      "DESCRIPTION": "Our signature piping hot, thick cut Salted French Fries are golden on the outside and fluffy on the inside.",
+      "PRICE": "$2.59",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/039e12dc-79b8-497c-a93e-26d6efe62c02-retina-large.jpg"
+    },
+    {
+      "NAME": "Onion Rings",
+      "DESCRIPTION": "Served hot and crispy, our golden Onion Rings are the perfect treat for plunging into one of our bold or classic sauces. Price includes 1 sauce of your choice.",
+      "PRICE": "$2.59",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/849aad99-a777-4220-bc8d-9d102918ae31-retina-large.jpg"
+    },
+    {
+      "NAME": "Garden Side Salad",
+      "DESCRIPTION": "Our Garden Side Salad is a blend of premium lettuces garnished with juicy tomatoes, home-style croutons, a three-cheese medley, and your choice of KEN\u2019S\u00ae salad dressing.",
+      "PRICE": "$2.09"
+    },
+    {
+      "NAME": "Dutch Apple Pie",
+      "DESCRIPTION": "A gooey apple filling enveloped by a flaky pastry crust, our Dutch Apple Pie is served to you warm right out of the kitchen.",
+      "PRICE": "$1.69"
+    },
+    {
+      "NAME": "HERSHEY'S\u00ae Sundae Pie",
+      "DESCRIPTION": "Say hello to our HERSHEY\u2019S\u00ae Sundae Pie. One part crunchy chocolate crust and one part chocolate cr\u00e8me filling, garnished with a delicious topping and real HERSHEY\u2019S\u00ae Chocolate Chips.The HERSHEY\u2019S\u00ae trademark and trade dress are used under license.",
+      "PRICE": "$2.19",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/80b1670d-e9c0-4886-a5b7-1ad48edd24ca-retina-large.jpg"
+    },
+    {
+      "NAME": "Soft Serve Cup",
+      "DESCRIPTION": "We didn't invent soft serve, but with one taste of our cool, creamy, and velvety Vanilla Soft Serve, you'll think we perfected it. Served in a cup.",
+      "PRICE": "$1.09"
+    },
+    {
+      "NAME": "Sundae",
+      "DESCRIPTION": "Cool and creamy with a chocolate fudge swirl, our prepared-to-order Chocolate Fudge Sundae is complemented by our velvety Vanilla Soft Serve.",
+      "PRICE": "$1.49",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/d80b5d06-884c-4aa0-aeda-75a2038c2d4d-retina-large.jpg"
+    },
+    {
+      "NAME": "Chocolate Shake",
+      "DESCRIPTION": "Cool down with our creamy Hand Spun Shake. Velvety vanilla soft serve and your choice of flavor are blended to perfection and finished with sweet whipped topping just for you",
+      "PRICE": "$3.19",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/df11107a-339f-4b13-b513-05224674eb24-retina-large.jpg"
+    },
+    {
+      "NAME": "Vanilla Shake",
+      "DESCRIPTION": "Cool down with our creamy Hand Spun Shake. Velvety vanilla soft serve and your choice of flavor are blended to perfection just for you.",
+      "PRICE": "$3.19",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/7cab4a2b-ce30-4e62-af69-3fe7ecf87693-retina-large.jpg"
+    },
+    {
+      "NAME": "Strawberry Shake",
+      "DESCRIPTION": "Cool down with our creamy Hand Spun Shake. Velvety vanilla soft serve and your choice of flavor are blended to perfection just for you.",
+      "PRICE": "$3.19",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/ea847685-dd75-46e8-9915-f5f78efe3631-retina-large.jpg"
+    },
+    {
+      "NAME": "Classic OREO\u00ae Shake",
+      "DESCRIPTION": "Cool down with our creamy hand spun OREO\u00ae Shake. Velvety Vanilla Soft Serve, OREO\u00ae cookie pieces and vanilla sauce are blended to perfection and finished with a sweet whipped topping just for you. OREO\u00ae and the OREO\u00ae Wafer Design are registered trademarks of Mondelez International group, used under license.",
+      "PRICE": "$3.49",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/c3ad483f-bad7-44f1-96af-4c3dcfc63c6d-retina-large.jpg"
+    },
+    {
+      "NAME": "Chocolate OREO\u00ae Shake",
+      "DESCRIPTION": "A spin on our classic OREO\u00ae Shake, the OREO\u00ae Chocolate Shake is a smooth shake made with velvety vanilla soft serve and blended with OREO\u00ae cookie pieces and chocolate sauce. OREO\u00ae and the OREO\u00ae Wafer Design are registered trademarks of Mondelez International group, used under license.",
+      "PRICE": "$3.39",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/c3ad483f-bad7-44f1-96af-4c3dcfc63c6d-retina-large.jpg"
+    },
+    {
+      "NAME": "King Jr Meal - 4 Pc Nuggets",
+      "DESCRIPTION": "Made with white meat chicken, our Chicken Nuggets King JrMeal is bite-sized, lightly battered in seasoned home-style breading, and perfect for dipping into one of our bold or classic sauces while on the go. Choose from a four-piece or six-piece pack for your child. Served with a small side of Mott's\u00ae natural apple sauce and a small drink of your choice to make it a meal.",
+      "PRICE": "$4.39",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/6dc449ac-3f0b-4d9b-ba45-8d7d0b81538b-retina-large.jpg"
+    },
+    {
+      "NAME": "King Jr Meal - Hamburger",
+      "DESCRIPTION": "Our Hamburger King Jr Meal is a signature flame-grilled beef patty topped with a simple layer of crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.Served with a small side of Mott's\u00ae natural apple sauce and a small drink of your choice to make it a meal.",
+      "PRICE": "$3.79",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/be2b0230-f290-4a5c-a927-180171278254-retina-large.jpg"
+    },
+    {
+      "NAME": "King Jr Meal - Cheeseburger",
+      "DESCRIPTION": "Our Cheeseburger King Jr Meal is a signature flame-grilled beef patty topped with a simple layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.Served with a small side of Mott's\u00ae natural apple sauce and a small drink of your choice to make it a meal.",
+      "PRICE": "$4.29",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/a4347ed8-0149-41a5-aa92-8c4a8e25a999-retina-large.jpg"
+    },
+    {
+      "NAME": "King Jr Meal - DOUBLE Cheeseburger",
+      "DESCRIPTION": "Our Double Cheeseburger King Jr Meal features two signature flame-grilled beef patties topped with a simple layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.Served with a small side of Mott's\u00ae natural apple sauce and a small drink of your choice to make it a meal.",
+      "PRICE": "$5.69",
+      "IMAGE": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=600,format=auto,quality=50/https://cdn.doordash.com/media/photos/45cf221a-2dc6-4ce4-9ce8-6200c5535449-retina-large.jpg"
+    }
+  ]
+}
